@@ -1,7 +1,16 @@
 public class BatTest {
     public static void main(String[] args) {
-        Bat b = new Bar();
+        Bat b = new Bat();
 
-        g.th
+        b.attackTown();
+        b.attackTown();
+        b.attackTown();
+
+        b.eatsHuman();
+        b.eatsHuman();
+
+        b.fly();
+        b.fly();
+        b.displayEnergy();
     }
 }
