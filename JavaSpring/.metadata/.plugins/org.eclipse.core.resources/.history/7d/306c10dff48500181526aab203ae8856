@@ -1,0 +1,8 @@
+package com.codingdojo.string;
+
+public class StringprojectApplication {
+
+	public static void main(String[] args) {
+		StringApplication.run
+	}
+}
