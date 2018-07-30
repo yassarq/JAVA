@@ -1,0 +1,6 @@
+package com.codingdojo.familiar_routing;
+
+@RestController
+public class DojoController {
+
+}

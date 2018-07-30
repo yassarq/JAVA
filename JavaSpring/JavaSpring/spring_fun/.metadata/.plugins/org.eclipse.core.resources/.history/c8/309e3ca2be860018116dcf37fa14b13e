@@ -1,0 +1,15 @@
+package com.codingdojo.dojocontroller;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DojoController {
+	@RequestMapping("dojo/{msg}")
+	public String awesome(@PathVariable("msg") String message) {
+		System.out.println(message);
+		return message;
+	}
+	
+}

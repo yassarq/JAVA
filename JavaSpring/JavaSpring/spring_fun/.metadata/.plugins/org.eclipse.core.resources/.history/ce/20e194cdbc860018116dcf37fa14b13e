@@ -1,0 +1,13 @@
+package com.codingdojo.familiar_routing;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DojoController {
+	@PathVariable("/dojo")
+	public String awsome(@RequestParam()) {
+		return "The dojo is awesome!"
+	}
+}

@@ -1,0 +1,6 @@
+package com.codingdojo.firstproject;
+
+public class CodingController {
+
+	@RequestMapping("/")
+}

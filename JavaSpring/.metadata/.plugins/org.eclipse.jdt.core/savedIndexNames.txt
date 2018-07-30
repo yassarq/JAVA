@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+C:\Users\yes_s\OneDrive\Documents\Coding_DOJO\JAVA\JAVA\JavaSpring\.metadata\.plugins\org.eclipse.jdt.core
-2281279252.index
-1890876268.index
-422488386.index
-1737996814.index
-2346430778.index

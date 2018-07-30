@@ -1,0 +1,8 @@
+
+public class GorillaTest {
+	public static void man(String[] args) {
+		Gorilla gorilla = new Gorilla();
+		gorilla.throwSomething().eatBananas().climb();
+		gorilla.displayEnergy();
+	}
+}

@@ -1,0 +1,6 @@
+package com.codingdojo.dojocontroller;
+
+RestController
+public class DojoController {
+
+}
